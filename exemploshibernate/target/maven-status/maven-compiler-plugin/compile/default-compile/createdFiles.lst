@@ -1,0 +1,4 @@
+conexao\HibernateUtil.class
+conexao\ConectaHibernateMySQL.class
+entidade\Contato.class
+entidade\ContatoCrudAnnotations.class
